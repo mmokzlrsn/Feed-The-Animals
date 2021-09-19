@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8c15a73255971de49a80379df9f783bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverText: {fileID: 4025887955101470283, guid: 8724cbeb794e95c45bb7f0a732ab4cfd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
